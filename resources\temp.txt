@@ -4,6 +4,6 @@ Anne 37
 
 ===============================================
 Default Suite
-Total tests run: 26, Failures: 10, Skips: 0
+Total tests run: 24, Failures: 9, Skips: 0
 ===============================================
 
